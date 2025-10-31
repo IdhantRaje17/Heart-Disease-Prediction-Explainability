@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+shap
+matplotlib
+scikit-learn
+Pillow
